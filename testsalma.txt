@@ -1,0 +1,10 @@
+ Le volume dans le lecteur C n'a pas de nom.
+ Le num‚ro de s‚rie du volume est D664-3A62
+
+ R‚pertoire de C:\Users\samah\Desktop\salma
+
+07/07/2021  14:39    <REP>          .
+07/07/2021  14:39    <REP>          ..
+07/07/2021  14:39                 0 testsalma.txt
+               1 fichier(s)                0 octets
+               2 R‚p(s)  185ÿ641ÿ291ÿ776 octets libres
